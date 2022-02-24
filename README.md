@@ -1,3 +1,5 @@
+This is the FAST_LIO2_NOTED.
+
 ## Related Works
 
 1. [ikd-Tree](https://github.com/hku-mars/ikd-Tree): A state-of-art dynamic KD-Tree for 3D kNN search.
